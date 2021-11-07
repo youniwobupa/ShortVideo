@@ -1,9 +1,4 @@
 ## Preview
-
-![image](https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%200-11-48.gif)
-![image](https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%200-07-54.gif)
-![image](https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%200-08-55.gif)
-## Screenshots
 <p align="center">
 <img src="https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%200-11-48.gif"/>
 <img src="https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%200-07-54.gif"/>
