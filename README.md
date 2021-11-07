@@ -27,8 +27,8 @@
 	}
 	```
   
-  ## Usage
-  in Activity
+## Usage
+ in Activity
   ```kotlin
   
   val videoUrls= listOf("https://mvvideo10.meita.com/618523cb0c2f3ki3frx45.mp4",
