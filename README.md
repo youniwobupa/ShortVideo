@@ -14,7 +14,7 @@
 
 	```groovy
 	dependencies {
-	        implementation 'com.github.youniwobupashortvideo1.0.0'
+	        implementation 'com.github.youniwobupa:shortvideo:1.0.0'
 	}
 	```
   
