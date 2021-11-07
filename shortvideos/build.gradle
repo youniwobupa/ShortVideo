@@ -11,11 +11,11 @@ afterEvaluate {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
-				//你的GitHub账号比如youniwobupa
+		//你的GitHub账号比如youniwobupa
                 groupId = 'com.simform.youniwobupa'
-				//你即将分享到GitHub的新仓库名称,等一下分享时写此名称
+		//你即将分享到GitHub的新仓库名称,等一下分享时写此名称
                 artifactId = 'shortvideo'
-				//版本号,做release时,写此版本
+		//版本号,做release时,写此版本
                 version = '1.0.0'
             }
         }
