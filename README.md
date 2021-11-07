@@ -14,7 +14,7 @@
 
 	```groovy
 	dependencies {
-	        implementation 'com.github.SimformSolutionsPvtLtd:SSJetPackComposeProgressButton:1.0.6'
+	        implementation 'com.github.youniwobupashortvideo1.0.0'
 	}
 	```
   
