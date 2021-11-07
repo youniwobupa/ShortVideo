@@ -1,18 +1,21 @@
 plugins {
     id 'com.android.library'
     id 'kotlin-android'
-    //上传依赖库需要添加此处
+    //compose上传github依赖库需要添加此处
     id 'maven-publish'
 }
-//上传依赖库需要添加此处
+//compose上传github依赖库需要添加此处
 afterEvaluate {
     publishing {
         publications {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
+				//你的GitHub账号比如youniwobupa
                 groupId = 'com.simform.youniwobupa'
+				//你即将分享到GitHub的新仓库名称,等一下分享时写此名称
                 artifactId = 'shortvideo'
+				//版本号,做release时,写此版本
                 version = '1.0.0'
             }
         }
@@ -42,7 +45,7 @@ android {
         }
     }
     compileOptions {
-        //上传依赖库需要添加此处必须VERSION_11以上,引用此库的demo也要设置
+        //compose上传github依赖库需要添加此处必须VERSION_11或者以上,工程demo也要设置相同版本.在setting-Build,Execution-Build Tools-Gradle选择jdk11
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
     }
