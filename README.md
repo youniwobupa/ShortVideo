@@ -1,5 +1,5 @@
 ## Preview
-<img src="https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%202-26-16.gif"/>
+                 <img src="https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%202-26-16.gif"/>
 <p align="center">
 <img src="https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%200-07-54.gif"/>
 <img src="https://github.com/youniwobupa/shortvideo/blob/master/GIF%202021-11-8%200-08-55.gif"/>
