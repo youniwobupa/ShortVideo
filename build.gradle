@@ -8,6 +8,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
+        //这里的gradle插件必须和工程目录gradle文件夹下面的wrapper下面的gradle-wrapper.properties里面的gradle版本对应.百度去查
         classpath 'com.android.tools.build:gradle:7.1.0-alpha03'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.10"
 
