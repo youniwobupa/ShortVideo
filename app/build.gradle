@@ -27,7 +27,7 @@ android {
         }
     }
     compileOptions {
-        //compose上传github依赖库需要添加此处必须VERSION_11或者以上,和依赖本地的依赖库保存一致
+        //上传github依赖库需要添加此处必须VERSION_11或者以上,和依赖本地的依赖库保存一致
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
     }
