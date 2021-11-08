@@ -1,10 +1,10 @@
 plugins {
     id 'com.android.library'
     id 'kotlin-android'
-    //compose上传github依赖库需要添加此处
+    //上传github依赖库需要添加此处
     id 'maven-publish'
 }
-//compose上传github依赖库需要添加此处
+//上传github依赖库需要添加此处
 afterEvaluate {
     publishing {
         publications {
@@ -45,7 +45,7 @@ android {
         }
     }
     compileOptions {
-        //compose上传github依赖库需要添加此处必须VERSION_11或者以上,工程demo也要设置相同版本.在setting-Build,Execution-Build Tools-Gradle选择jdk11
+        //上传github依赖库需要添加此处必须VERSION_11或者以上,工程demo也要设置相同版本.在setting-Build,Execution-Build Tools-Gradle选择jdk11
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
     }
