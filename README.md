@@ -36,7 +36,7 @@
         val videoUrls= listOf("https://mvvideo10.meita.com/618523cb0c2f3ki3frx45.mp4",
                               "https://mvvideo10.meitd.com/617d71c68a23b07s660jli19.mp4",
                               "https://mvvideo10.meita.com/617e0891ad406q8may298.mp4",)
-	setContent {
+	   setContent {
         ShortVideoCompose(this,VideoItemsUrl = videoUrls)
         }
    }
